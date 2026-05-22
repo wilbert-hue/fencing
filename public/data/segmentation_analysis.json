@@ -1,34 +1,69 @@
 {
   "Global": {
-    "By Type": {
-      "Sub-Normothermic Perfusion (20–34°C)": {},
-      "Warm or Normothermic Perfusion (35–37°C)": {}
+    "By Fencing System Type": {
+      "Wire and Mesh Fencing": {},
+      "Palisade Fencing": {},
+      "Post and Rail Fencing": {},
+      "Barrier and Guardrail Systems": {},
+      "Others (Electric Fencing, etc.)": {}
     },
-    "By Organ Type": {
-      "Liver": {},
-      "Heart": {},
-      "Lung": {},
-      "Kidney": {},
-      "Others (Pancreas, Small bowel / Intestine, Composite Tissues / Limb Perfusion (emerging use cases))": {}
+    "By Material Type": {
+      "Metal Fencing": {},
+      "Timber / Wood Fencing": {},
+      "Concrete-Based Fencing": {},
+      "Plastic and PVC Fencing": {},
+      "Composite and Recycled Material Fencing": {}
     },
-    "Application / Use Case": {
-      "Organ Preservation": {},
-      "Viability Assessment": {},
-      "Physiologic Transport": {},
-      "Reconditioning Marginal Organs": {},
-      "Others (Research Use / Protocol development)": {}
+    "By Project Size": {
+      "Small Projects": {},
+      "Medium Projects": {},
+      "Large Projects": {},
+      "Mega / Strategic Projects": {}
     },
-    "By End User": {
-      "Hospitals & Clinics": {},
-      "Specialty Clinic/Centers": {},
-      "Transplant Centers": {},
-      "Others (Research Institutes/Centers, Organ Procurement Organizations, etc.)": {}
+    "By Service Type": {
+      "Fencing Supply & Installation": {},
+      "Fencing Repair & Maintenance": {},
+      "Custom Fencing Solutions": {}
+    },
+    "By End-use Industry": {
+      "Agriculture and Equestrian": {
+        "Livestock Farms": {},
+        "Dairy Farms": {},
+        "Others (Equestrian Centers, etc.)": {}
+      },
+      "Transport and Infrastructure": {
+        "Roads and Highways": {},
+        "Railways": {},
+        "Others (Bridges and Civil Infrastructure, etc.)": {}
+      },
+      "Commercial and Industrial Facilities": {
+        "Manufacturing Plants": {},
+        "Warehouses": {},
+        "Others (Business and Industrial Estates, etc.)": {}
+      },
+      "Utilities and Energy": {
+        "Water Utilities": {},
+        "Electricity Substations": {},
+        "Others (Telecom Infrastructure, etc.)": {}
+      },
+      "Data Centers and Technology Facilities": {
+        "Data Center Campuses": {},
+        "IT Parks": {},
+        "Others (Secure Technology Infrastructure, etc.)": {}
+      },
+      "Pharmaceuticals and Healthcare": {
+        "Pharmaceutical Manufacturing Plants": {},
+        "Laboratories": {},
+        "Others (Hospitals, etc.)": {}
+      },
+      "Education and Public Institutions": {
+        "Schools": {},
+        "Colleges and Universities": {},
+        "Others (Municipal Buildings, etc.)": {}
+      },
+      "Others (Sports and Recreation Facilities, Construction and Temporary Worksites, others)": {}
     },
     "By Region": {
-      "North America": {
-        "U.S.": {},
-        "Canada": {}
-      },
       "Europe": {
         "U.K.": {},
         "Germany": {},
@@ -36,27 +71,8 @@
         "France": {},
         "Spain": {},
         "Russia": {},
+        "Ireland": {},
         "Rest of Europe": {}
-      },
-      "Asia Pacific": {
-        "China": {},
-        "India": {},
-        "Japan": {},
-        "South Korea": {},
-        "ASEAN": {},
-        "Australia": {},
-        "Rest of Asia Pacific": {}
-      },
-      "Latin America": {
-        "Brazil": {},
-        "Argentina": {},
-        "Mexico": {},
-        "Rest of Latin America": {}
-      },
-      "Middle East & Africa": {
-        "GCC": {},
-        "South Africa": {},
-        "Rest of Middle East & Africa": {}
       }
     }
   }

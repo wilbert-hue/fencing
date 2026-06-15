@@ -26,42 +26,72 @@
       "Custom Fencing Solutions": {}
     },
     "By End-use Industry": {
+      "Transport, Logistics and Critical Infrastructure": {
+        "Airports": {},
+        "Roads and Highways": {},
+        "Railways": {},
+        "Seaports and Harbors": {},
+        "Bridges and Civil Infrastructure": {},
+        "Border Security Infrastructure": {}
+      },
+      "Data Centers and Technology Facilities": {
+        "Hyperscale Data Centers": {},
+        "Data Center Campuses": {},
+        "AI Data Centers": {},
+        "Cloud Infrastructure Facilities": {},
+        "IT Parks": {}
+      },
+      "Secure Technology Infrastructure": {},
+      "Commercial and Industrial Facilities": {
+        "Manufacturing Plants": {},
+        "Warehouses and Logistics Parks": {},
+        "Industrial Estates": {},
+        "Business Parks": {},
+        "Distribution Centers": {}
+      },
+      "Utilities and Energy Infrastructure": {
+        "Water Utilities and Treatment Plants": {},
+        "Electricity Substations": {},
+        "Power Generation Plants": {},
+        "Renewable Energy Facilities (Solar Farms, Wind Farms)": {},
+        "Oil & Gas Storage Facilities": {},
+        "Telecom Infrastructure": {}
+      },
       "Agriculture and Equestrian": {
         "Livestock Farms": {},
         "Dairy Farms": {},
-        "Others (Equestrian Centers, etc.)": {}
-      },
-      "Transport and Infrastructure": {
-        "Roads and Highways": {},
-        "Railways": {},
-        "Others (Bridges and Civil Infrastructure, etc.)": {}
-      },
-      "Commercial and Industrial Facilities": {
-        "Manufacturing Plants": {},
-        "Warehouses": {},
-        "Others (Business and Industrial Estates, etc.)": {}
-      },
-      "Utilities and Energy": {
-        "Water Utilities": {},
-        "Electricity Substations": {},
-        "Others (Telecom Infrastructure, etc.)": {}
-      },
-      "Data Centers and Technology Facilities": {
-        "Data Center Campuses": {},
-        "IT Parks": {},
-        "Others (Secure Technology Infrastructure, etc.)": {}
+        "Poultry Farms": {},
+        "Crop Protection Farms": {},
+        "Others (Equestrian Centers, Ranches, etc.)": {}
       },
       "Pharmaceuticals and Healthcare": {
         "Pharmaceutical Manufacturing Plants": {},
         "Laboratories": {},
-        "Others (Hospitals, etc.)": {}
+        "Hospitals": {},
+        "Research Centers": {},
+        "Biotechnology Facilities": {}
       },
       "Education and Public Institutions": {
         "Schools": {},
         "Colleges and Universities": {},
-        "Others (Municipal Buildings, etc.)": {}
+        "Municipal Buildings": {},
+        "Government Facilities": {},
+        "Correctional Facilities": {}
       },
-      "Others (Sports and Recreation Facilities, Construction and Temporary Worksites, others)": {}
+      "Defense and High-Security Installations": {
+        "Military Bases": {},
+        "Defense Warehouses": {},
+        "Ammunition Depots": {},
+        "Surveillance Zones": {}
+      },
+      "Strategic Government Installations": {},
+      "Sports, Recreation and Temporary Infrastructure": {
+        "Sports Stadiums": {},
+        "Recreation Facilities": {},
+        "Event Grounds": {},
+        "Construction and Temporary Worksites": {},
+        "Exhibition Grounds": {}
+      }
     },
     "By Region": {
       "Europe": {
